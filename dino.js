@@ -1,5 +1,5 @@
-{
-    "Dinos": [
+export default {
+    "dinosArray": [
         {
             "species": "Triceratops",
             "weight": 13000,
@@ -72,5 +72,12 @@
             "when": "Holocene",
             "fact": "All birds are living dinosaurs."
         }
-    ]
+    ],
+    "Human": {
+        "name" : "Alex",
+        "heightMeter" : "1.0",
+        "heightCentimeter" : "99",
+        "weight" : "76",
+        "diet" : "carnivor"
+    }
 }
